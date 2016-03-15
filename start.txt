@@ -1,2 +1,6 @@
-Git is a version control system.
+Git is a distributed version control system.
 Git is free software.
+
+
+git config --global user.email "yuxx@jpush.cn"
+git config --global user.name "xiao"
